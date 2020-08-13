@@ -1,3 +1,4 @@
+package control;
 /** muestra un saludo en java
 @version 1.0
 
