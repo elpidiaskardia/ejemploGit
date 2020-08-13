@@ -5,4 +5,5 @@ package control;
 */
 public class Saludo( public static void main(String arg)){
 System.out.println("hola");
+System.out.println("genki de suka?");
 }
